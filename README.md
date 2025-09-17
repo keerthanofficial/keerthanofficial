@@ -46,10 +46,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthanofficial&show_icons=true&locale=en&layout=compact" alt="keerthanofficial" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthanofficial&show_icons=true&locale=en" alt="keerthanofficial" />
-</p>
